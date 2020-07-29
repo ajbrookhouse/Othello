@@ -268,7 +268,16 @@ def generateGames(numGames):
             print(i)
 
 
-        
+print('===================================================================================================')
+print('You, the player are playing the white pieces. The computer will play the black pieces')
+print('When it is your turn, the board will be shown with title "White\'s Turn"')
+print('Close the board and type in the i and j coordinates of your move when prompted by the terminal')
+print('If you choose an invalid move, the computer will say invalid move and show the board again. Close the board and type in your move coordinates')
+print('If your move is valid, the board will be shown with title "Black\'s turn, and your move will be shown on the board')
+print('Close the board and when the computer is done picking a move, the board will be shown with title "White\'s turn" and it will be your turn to move again.')
+print('Next time the game is updated, i will make it GUI based input so it is easier')
+print('===================================================================================================')
+print('')
 
 board = createBoard()
 turn = white
