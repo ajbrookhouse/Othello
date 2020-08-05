@@ -1,5 +1,5 @@
 # Othello
-An implementation of the board game Othello in python
+A Genetic Reinforcement Learning Approach to the Board Game Othello
 
 The rules to othello can be read here (https://www.ultraboardgames.com/othello/game-rules.php). In this game, the player always plays as the white pieces and goes first. The Computer is the black pieces and goes second.
 
